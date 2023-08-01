@@ -1,0 +1,59 @@
+a link
+
+
+
+etiqeutas que son padres -> section 
+Etiqueta hijo -> h2 dentro de section
+Etiqueta nieto 
+se va heredando el rasgo, si a section le doy una tipografia y le indico 
+
+
+
+
+
+
+
+
+
+---------------------------
+display-flex
+paddin
+margin top bottom right left
+
+
+
+flexbox mas facil la disposicion de los elementos
+    conjunto de propiedades de css
+    contenedor padre para ordenar a sus hijos
+    nos permite posicionar elementos vertical y horizontal, establecer como se distribuyen
+    esto es perfecto para crear diseños adaptables a dispositivos moviles
+
+        first-section{
+        backgound-color
+        paddin
+        display: flex;
+            flex-direction: row (fila) 
+            flex-direction: column (columna)
+            flex-direction: column-reverse (columna invertida )
+        
+        flex-wrap: wrap (se acomoda todo en base al padre)
+
+        flex-flow: row wrap
+        
+        justify-content: flex-start;
+        justify-content: center 
+        }
+
+!--- cosas a mejorar del tp ---!
+-Avanzar mucho con el css y mejorar los estilos.
+
+-Agregar material audiovisual. Más img y videos.
+
+-Agregar más contenido relevante a la página.
+
+-El orden de los archivos debe mejorarse. Los html deben estar dentro de la carpeta pages a excepción del archivo Index.hmtl
+
+-Fijat el scroll que tenes horizontal no debe estar. Tenes un problema con alguna propiedad css(overflow, puede ser)
+
+¡A seguir así, vamos por más!
+
